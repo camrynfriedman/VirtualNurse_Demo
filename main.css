@@ -7,3 +7,14 @@
 h1{
     text-align: center;
 }
+
+.speak-text-button{
+   background-image: url(
+'images/Speaker_Icon.svg');
+            background-size: cover;
+            background-color: white;
+            width: 20px;
+            height: 20px;
+            font-size: 2rem;
+            border-style: none;
+}
