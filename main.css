@@ -4,9 +4,10 @@
     text-align: right;
 }
 
-h1{
+h1, h2{
     text-align: center;
 }
+
 
 .speak-text-button{
    background-image: url(
