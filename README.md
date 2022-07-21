@@ -10,6 +10,10 @@ The team was tasked with generating an idea to fit the prompt of "AI for Good". 
 ## The Idea
 The idea of a Virtual Nurse was generated to address redudundancy and inefficiencies in the health care system and ultimately improve speed and quality of care.
 
+## How to run:
+1. Open project in preferred environment (ie Eclipse, Visual Studio, Visual Studio Code, Atom, etc.)
+2. Go to the `startpage.html` file and open it in a browser.
+
 ## Explanation of the Application
 With this interface, a general person can opt in to have their data supplied to train our AI to provide more accurate diagnoses. After the terms and conditions, the user is taken to a separate webpage and instructed to enter some of their demographic information and then choose symptoms that they're experiencing. In the end, the application will use the symptoms denoted by the patient and past data to provide a figure representing the certainty of the AI that the user has X diagnosis. This number is expected to change as more data is fed to train the AI as more data yield more accurate results. After the diagnosis is given, recommendations for next steps such as links to helpful websites, suggestions to escalate the situation, or home remedies, for example, are given. 
 
@@ -20,6 +24,3 @@ For accessibility purposes and inclusive design, I have included speaker buttons
 ## Future Enhancements
 As of right now, the program is hard-coded to output that the user has food poisoning, but future enhancements can be made in production and development to implement more javascript and capabilities.
 
-## How to run:
-1. Open project in preferred environment (ie Eclipse, Visual Studio, Visual Studio Code, Atom, etc.)
-2. Go to the `startpage.html` file and open it in a browser.
